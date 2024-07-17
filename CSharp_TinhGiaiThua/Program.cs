@@ -1,5 +1,5 @@
 ﻿using System;
-namespace CSharp_TinhGiaiThua
+namespace CSharp_TinhLuyThua
 {
     class Program()
     {
